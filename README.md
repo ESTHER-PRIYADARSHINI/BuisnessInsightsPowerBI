@@ -1,4 +1,4 @@
-# BuisnessInsightsPowerBI
+# Buisness Insights Using PowerBI
 
 Our project objective is to analyze product sales trends through profit analysis and performance insights.
 
